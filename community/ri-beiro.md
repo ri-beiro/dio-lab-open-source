@@ -1,4 +1,4 @@
-# Opa! Eu sou o Lucas Ribeiro 👨‍💻
+# Olá! Eu sou o Lucas Ribeiro 👨‍💻
 
 - 💻 Trabalho com suporte técnico e automação de processos  
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (3º semestre)  
@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ri-beiro&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ri-beiro&layout=compact&theme=tokyonight)
+![Top Langs!](https://github-readme-stats.vercel.app/api/top-langs/?username=ri-beiro&layout=compact&theme=tokyonight)
 
 ---
 
